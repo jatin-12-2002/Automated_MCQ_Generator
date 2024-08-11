@@ -20,7 +20,7 @@ key = os.getenv("GOOGLE_API_KEY")
 
 print("Value of MY_VARIABLE:", key)
 
-llm = ChatGoogleGenerativeAI(google_api_key=key,model="gemini-1.5-pro")
+llm = ChatGoogleGenerativeAI(google_api_key=key,model="gemini-pro")
 
 template="""
 Text:{text}

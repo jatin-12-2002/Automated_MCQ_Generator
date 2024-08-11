@@ -1,4 +1,4 @@
-# Automated_MCQ_Generator
+# Automated MCQ Generator
 
 ## Installation
 

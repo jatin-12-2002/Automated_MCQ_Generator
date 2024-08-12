@@ -2,7 +2,7 @@
 
 ## Installation
 
-To set up the Information Retrieval System ChatBot locally, follow these steps:
+To set up the Automated MCQ Generator locally, follow these steps:
 
 ### Step-1: Clone the repository to your local machine:
 ```bash
